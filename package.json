@@ -5,7 +5,7 @@
   "license": "MIT",
   "scripts": {
     "build": "preact build",
-    "start": "NODE_ENV=production sirv build --port 8080 --cors --single",
+    "start": "NODE_ENV=production sirv build --port $PORT --cors",
     "dev": "preact watch",
     "lint": "eslint src",
     "test": "jest"
