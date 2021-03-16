@@ -4,4 +4,6 @@ import 'normalize.css'
 import "./style/main.min.css"
 import './style/carousel.css'
 
-render(<App />, document.body);
+if(typeof window !== "undefined"){
+    render(<App />, document.body);
+}
