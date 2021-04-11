@@ -31,10 +31,9 @@ const AboutPage = () => {
                                                 Who am I
                                             </h3>
                                             <p>
-                                                Hello I'm Tentacle. Currently, my specialization is web development, but
-                                                I'm trying myself in all directions of development. I'm the type of person who like
-                                                when all the stuff I do is perfect. I like to code some things in my free time and learn new stuff.
-                                                I have no experience of working in teams, but I would like to.
+                                                Hello, I'm Tentacle. Currently, my specialization is web development, but
+                                                I'm trying myself in all directions of development. I'm the type of person who likes when all the stuff I do is perfect.
+                                                I like to code interesting projects and learn new stuff in my free time.
                                             </p>
                                             <h3>
                                                 What I can offer you
@@ -47,21 +46,20 @@ const AboutPage = () => {
                                                 About my skills
                                             </h3>
                                             <p>
-                                                For a layout, I use a pure html and emmet. For a styling, I use CSS with SASS preprocessor, maybe
-                                                tailwind css framework for fast coding. For a frontend, I use ReactJs.
-                                                When I want to do something fast, have a good SEO and performance then I use nextJS.
-                                                For a state management, I use Redux (which I hate a lof) or Jotai, maybe ReactContext api.
-                                                When I need db, I use MongoDb or if I need SEQUEL db I use Postgres.
-                                                For a backend, use Fastify or Express.
-                                                I love to use TypeScript.
+                                                For a layout, I use pure HTML and emmet. For styling, I use CSS with SASS preprocessor, maybe tailwindcss framework for fast coding.
+                                                For a frontend, I use React, but mostly a lightweight version - Preact.
+                                                When I want to do something fast, have a good SEO and performance then I use nextJS or Preact which i love a lot.
+                                                For state management, I use Redux (which I hate a lot) or Jotai, maybe ReactContext API.
+                                                When I need DB, I use MongoDB or if I need SQL DB I use Postgres.
+                                                For a backend, I prefer to use Fastify or Express wrapped up with NestJs.
+                                                I love TypeScript.
                                                 I know how to work with webpack and gulp. When I need containerization I work with docker,
-                                                docker-compose, and docker hub. For development I follow SOLID and KISS principles.
+                                                docker-compose, and docker hub. In the development process, I'm trying to follow SOLID and KISS principles.
                                                 I prefer TDD over BDD. For TDD I prefer Enzyme and JEST.
-                                                For mobile apps I choose react-native.
                                             </p>
                                         </div>
                                         <div style={width < 992 ? {justifyContent: 'center', display: 'flex', marginTop: '40px'} :{paddingLeft: '10vw'}} className="col-xs-12 col-md-6">
-                                            <img src={rose} alt="rose" height={700}/>
+                                            <img src={rose} alt="rose" height={700} />
                                         </div>
                                     </div>
                                 </div>
