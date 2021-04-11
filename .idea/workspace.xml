@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="efb2369f-c2c4-4a93-91a8-c3b56364b7f0" name="Default Changelist" comment="" />
+    <list default="true" id="efb2369f-c2c4-4a93-91a8-c3b56364b7f0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Components/Imgs.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Imgs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/main/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/main/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +30,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/style" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -53,6 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1615900460092</updated>
       <workItem from="1615900462519" duration="7052000" />
+      <workItem from="1618131968428" duration="2237000" />
     </task>
     <servers />
   </component>
