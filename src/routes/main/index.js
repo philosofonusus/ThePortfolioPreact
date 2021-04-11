@@ -31,8 +31,8 @@ const MainRoute = () => {
 									<h1>Hello,<br />
 										<span ref={typedStrings}>
                                                 <span>I'm Tentacle</span>
-                                                <span>MERN fullstack developer</span>
-                                                <span>Freelance soldier</span>
+                                                <span>Fullstack developer</span>
+												<span>Freelance soldier</span>
                                             </span>
 										<span ref={TypeD} />
 									</h1>
